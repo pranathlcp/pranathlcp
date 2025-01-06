@@ -13,7 +13,7 @@
 
 ### ⚒️ My Recent Projects
 - [Simulation for Cricket: A Machine Learning Approach (MSc Thesis)](https://dr.library.brocku.ca/handle/10464/18942)
-- Olympic Data Analysis (Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Microsoft Power BI, SQL)
+- Olympic Data Analysis (Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Tableau, SQL)
 - Software Developer Analysis ([Analysis](https://github.com/pranathlcp/developer-survey-analysis), [Dashboard - Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmU2YjQ1MjEtMzBmYy00N2M2LThmNzQtYzFlNjZmNzgzNmEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
 - [Healthcare Data Dashboard: Emergency Room Overview](https://public.tableau.com/app/profile/pranath.pussella/viz/ERVisitsDashboard_17343204700950/Dashboard1)
 - [Stratified Adaptive Clustering](https://github.com/pranathlcp/Stratified-Adaptive-Cluster-Sampling-Implementation)
