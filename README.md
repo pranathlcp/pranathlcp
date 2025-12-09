@@ -6,13 +6,14 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pranathlcp.com)](https://pranathlcp.com)
 [![Github](https://img.shields.io/github/followers/pranathlcp?label=Follow&style=social)](https://github.com/pranathlcp)
 
-- 💻 I currently work as a Software Engineer at Multiplier 
+- 💻 I currently work as a Business Analyst (Data Strategy) at the Ontario Arts Council 
 - 🎓 MSc in Mathematics and Statistics (Brock University)
 - 📈 I'm interested in Machine Learning and Software Development
 - 📫 How to reach me: pranathlcp@gmail.com
 
 ### ⚒️ My Recent Projects
 - [Simulation for Cricket: A Machine Learning Approach (MSc Thesis)](https://dr.library.brocku.ca/handle/10464/18942)
+- [Arts Dashboard: Canada](https://public.tableau.com/app/profile/pranath.pussella/viz/ArtsDashboard/Summary)
 - Olympic Data Analysis (Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Tableau, SQL)
 - Software Developer Analysis ([Analysis](https://github.com/pranathlcp/developer-survey-analysis), [Dashboard - Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmU2YjQ1MjEtMzBmYy00N2M2LThmNzQtYzFlNjZmNzgzNmEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
 - [Healthcare Data Dashboard: Emergency Room Overview](https://public.tableau.com/app/profile/pranath.pussella/viz/ERVisitsDashboard_17343204700950/Dashboard1)
